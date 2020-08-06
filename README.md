@@ -1,6 +1,6 @@
 <p align="right">
-   <a href="https://now-playing-profile-taupe.vercel.app/now-playing?open">
-    <img src="https://now-playing-profile-taupe.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+   <a href="https://now-playing-profile-taupe.vercel.app/now-playing?open" target="notarget">
+    <img src="https://now-playing-profile-taupe.vercel.app/now-playing" width="256" height="64" alt="Now Playing" align="right">
    </a>
 </p>
 
