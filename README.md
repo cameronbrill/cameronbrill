@@ -8,7 +8,7 @@
   <h1>Hi，I'm Cameron!</h1>
 </p>
 
-<img align='right' width="350" src="https://github-readme-stats.vercel.app/api?username=cameronbrill&show_icons=true&theme=tokyonight">
+<img align='right' width="350" src="https://github-readme-stats.vercel.app/api?username=cameronbrill&count_private=true&show_icons=true&theme=cobalt">
 
 <a href="https://www.linkedin.com/in/cameronbrill/">
   <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
