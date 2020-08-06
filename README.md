@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <h1>Hi，I'm Cameron!</h1>
+  <h1>Hi, I'm Cameron!</h1>
 </p>
 
 <img align='right' width="350" src="https://github-readme-stats.vercel.app/api?username=cameronbrill&count_private=true&show_icons=true&theme=cobalt">
