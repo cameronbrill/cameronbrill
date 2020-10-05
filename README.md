@@ -16,4 +16,6 @@
 <a href="https://github.com/cameronbrill">
   <img align="left" alt="recursion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=cameronbrill&color=ff69b4)
 <br/><br/>
